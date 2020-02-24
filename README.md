@@ -12,4 +12,4 @@ Personal Projects  portfolio
    
    Credits: 
       * [W3School](https://www.w3schools.com/css/css3_variables.asp),
-      * [Intuit.com](https://accounts.intuit.com/signup.html)
+      * [Intuit.com](https://accounts.intuit.com/signup.html) 
